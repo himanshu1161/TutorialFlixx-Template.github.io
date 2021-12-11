@@ -1,0 +1,22 @@
+@media screen and (max-width:1000px){
+    li{
+        margin-right: -35px;
+    }
+    ul{
+        margin-right: 37px;
+margin-top: 33px;
+    }
+    h1{
+        font-size: 47px;
+margin-bottom: 180px;
+    }
+    .btn{
+        padding: 8px 22px;
+        font-size: 8px;
+margin-left: -23px;
+    }
+    .btn1{
+        padding: 8px 22px;
+        font-size: 8px;
+    }
+}
